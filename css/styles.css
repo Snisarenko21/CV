@@ -20,7 +20,7 @@ ul {
 
 /* main content section */
 .main-content-section {
-  padding: 50px 100px 50px 100px;
+  padding: 60px 100px 80px 100px;
   width: 60vw;
 }
 /* about me section */
@@ -184,7 +184,7 @@ ul {
   flex-direction: column;
   align-items: center; */
 
-  width: 20vw;
+  width: 25vw;
   padding: 40px 10px;
   background-color: #949ab3;
 }
@@ -231,14 +231,12 @@ ul {
   font-size: 18px;
   line-height: 24px;
   text-decoration: none;
-  /* text-decoration: underline; */
 }
 .contact-section-text {
   font-weight: normal;
   font-size: 18px;
   line-height: 24px;
   color: #ffffff;
-  /* opacity: 0.5; */
 }
 .list {
   padding-left: 20px;
