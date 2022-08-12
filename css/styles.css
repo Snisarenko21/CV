@@ -17,9 +17,8 @@ li {
   flex-direction: row-reverse;
   width: 100%;
   background-color: #ffffff;
-  margin: 0;
   /* width: 100vw; */
-  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  /* box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1); */
 }
 
 /* main content section */
@@ -216,6 +215,7 @@ li {
   display: block;
   width: 70%;
   border-radius: 25%;
+  margin-bottom: 20px;
 }
 /* contacts section */
 /* .contact-section-tipe {
