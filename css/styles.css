@@ -1,7 +1,8 @@
 body {
   font-family: "Montserrat", sans-serif;
   background-color: #f5f7fa;
-  min-height: 100vh;
+  height: 297 mm;
+  width: 210 mm;
 }
 ul,
 li {
