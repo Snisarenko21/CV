@@ -2,7 +2,8 @@ body {
   font-family: "Montserrat", sans-serif;
   background-color: #f5f7fa;
 }
-ul {
+ul,
+li {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -20,7 +21,7 @@ ul {
 
 /* main content section */
 .main-content-section {
-  padding: 60px 100px 80px 100px;
+  padding: 60px 100px 60px 60px;
   width: 60vw;
 }
 /* about me section */
@@ -64,7 +65,7 @@ ul {
   margin: 0 0 50px 0;
 }
 .my-projects-list {
-  padding: 0 0 0 17px;
+  padding: 0;
 }
 .my-projects-item {
   font-style: normal;
@@ -79,7 +80,6 @@ ul {
   font-size: 18px;
   line-height: 24px;
   color: #000000;
-  margin-left: 10px;
 }
 .my-projects-link {
   font-style: normal;
@@ -144,7 +144,7 @@ ul {
   font-size: 18px;
   line-height: 24px;
   color: black;
-  padding-left: 17px;
+  /* padding-left: 17px; */
   margin-bottom: 15px;
 }
 .expirience-company {
@@ -193,7 +193,7 @@ ul {
 .tech-skils-section,
 .soft-skils-section {
   /* margin: 50px 0 0 40px; */
-  padding: 10px 20px;
+  padding: 10px 30px;
 }
 .sidebar-title {
   font-style: normal;
